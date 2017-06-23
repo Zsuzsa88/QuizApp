@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_59788c1d68e64240f550ad162297a8c45df1238b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c61f9918ae9b10429dcf16b05b91a9505e7d055">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fdbf10f4dee3919acec8e7ac938d826f38ae54d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_20cc7b7164a4ddefe863afb36d12c397d6f4c7ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77d23dbadaa9c69c3b40d6f957e97d2b156d379f">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f501b2dad2352b90fcfa7df357b743bd421efa81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_1c89ef90441bc8c3adb5c5b62b57efccbec1c1b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_dfa0109ebbc9e2adb5fe850fc987e96961a8ce3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_c5acbe54af20e56ec28d7e0a8d8d6648d61916cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_1513d672f7cc8ec1c9b2f6f49cd13b9332ab7c81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_8623ec83f908f7b435053afb5c6df79bdb807879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_5134b694a5fd47439a6cc401e43a620022717112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_996e547b1e3a1a0c21f598eefb04aea2988b2a83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Zsuzsi\Dropbox\Zsuzsi-android\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_39a1ead9ff37b094ca5026c75a7876e7dd06fffb\classes.dex" />
+    </item>
+
+</items>

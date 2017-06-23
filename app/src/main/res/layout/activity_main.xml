@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_height="match_parent"
+android:layout_width="match_parent"
+tools:context="com.example.zsuzsi.quizapp.MainActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/perfect"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="1. To which instrument does a Symphony orchestra tune to?"
+                android:textColor="#000000"
+                android:textAllCaps="true" />
+
+            <EditText
+                android:id="@+id/answer1_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Answer"
+                android:layout_marginBottom="24dp"
+                android:inputType="textCapWords" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="2. Which intruments are not part of the String Quartet?"
+                android:textColor="#000000"
+                android:textAllCaps="true" />
+
+            <CheckBox
+                android:id="@+id/violin_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Violin"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/viola_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Viola"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/chello_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Chello"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/doublebass_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Doublebass"
+                android:textSize="16sp"/>
+
+            <CheckBox
+                android:id="@+id/piano_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:layout_marginBottom="24dp"
+                android:text="Piano"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="3. What does 'Da Capo al Fine' indicates in a musical score?"
+                android:textColor="#000000"
+                android:textAllCaps="true" />
+
+            <CheckBox
+                android:id="@+id/continue_playing_to_the_end_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="continue playing to the end "
+                android:textSize="16sp"/>
+
+            <CheckBox
+                android:id="@+id/repeat_from_beginning_to_the_end_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="repeat from beginning to the end"
+                android:textSize="16sp"/>
+
+            <CheckBox
+                android:id="@+id/jump_to_the_end_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:layout_marginBottom="24dp"
+                android:text="jump to the end"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="4. What instrument family the English Horn belongs to?"
+                android:textColor="#000000"
+                android:textAllCaps="true" />
+
+            <CheckBox
+                android:id="@+id/strings_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="strings"
+                android:textSize="16sp"/>
+
+            <CheckBox
+                android:id="@+id/woodwinds_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="woodwinds"
+                android:textSize="16sp"/>
+
+            <CheckBox
+                android:id="@+id/brass_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="brass"
+                android:textSize="16sp"/>
+
+            <CheckBox
+                android:id="@+id/perussion_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="percussion"
+                android:layout_marginBottom="24dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="5. Where does the Didgeridoo originates from?"
+                android:textColor="#000000"
+                android:textAllCaps="true" />
+
+            <CheckBox
+                android:id="@+id/africa_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Africa"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/australia_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Australia"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/india_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="India"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/indonesia_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Indonesia"
+                android:layout_marginBottom="24dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="6. Which of the following composers are from the classical area?"
+                android:textColor="#000000"
+                android:textAllCaps="true" />
+
+            <CheckBox
+                android:id="@+id/joseph_haydn_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Joseph Haydn"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/w_amadeus_mozart_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="W.Amadeus Mozart"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/ludwig_van_beethoven_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Ludwig van Beethoven"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/antonio_vivaldi_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Antonio Vivaldi"
+                android:textSize="16sp"/>
+            <CheckBox
+                android:id="@+id/richard_strauss_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="12dp"
+                android:text="Richard Strauss"
+                android:layout_marginBottom="24dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="7. What is the nationality of Bela Bartok?"
+                android:textColor="#000000"
+                android:textAllCaps="true" />
+
+            <EditText
+                android:id="@+id/answer2_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Answer"
+                android:layout_marginBottom="24dp"
+                android:inputType="textCapWords" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="8. How many keys does a piano have?"
+                android:textColor="#000000"
+                android:textAllCaps="true" />
+
+            <EditText
+                android:id="@+id/answer3_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Answer"
+                android:layout_marginBottom="24dp"
+                android:inputType="textCapWords" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:text="SUBMIT"
+                    android:elevation="1dp"
+                    android:layout_marginBottom="14dp"
+                    android:id="@+id/submit_button" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:text="CORRECT"
+                    android:elevation="1dp"
+                    android:layout_marginBottom="14dp"
+                    android:id="@+id/correct_button" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+</ScrollView>
